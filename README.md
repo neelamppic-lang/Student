@@ -1,4 +1,4 @@
 # Student
 practices repository
 <br>
-Author - Neelam
+Author - Neelam (student)
